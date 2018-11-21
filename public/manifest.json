@@ -1,0 +1,9 @@
+{
+  "name": "Service Worker in Princing Page",
+  "short_name": "SW-Pricing",
+  "theme_color": "#563D7C",
+  "background_color": "#563D7C",
+  "display": "standalone",
+  "start_url": "/",
+  "splash_pages": null
+}

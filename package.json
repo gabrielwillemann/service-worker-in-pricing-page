@@ -1,0 +1,34 @@
+{
+  "name": "service-worker-in-pricing-page",
+  "version": "1.0.0",
+  "description": "Service worker example in a pricing page",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "build": "grunt default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gabrielwillemann/service-worker-in-pricing-page.git"
+  },
+  "keywords": [
+    "service-worker"
+  ],
+  "author": "Gabriel Willemann <sharklabs.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielwillemann/service-worker-in-pricing-page/issues"
+  },
+  "homepage": "https://github.com/gabrielwillemann/service-worker-in-pricing-page#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
